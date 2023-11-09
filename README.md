@@ -3,21 +3,31 @@ Welcome to PDF Query Assistant, a handy tool that empowers users to ask question
 
 ## Features
 Upload PDF: Users can easily upload their PDF files through the user-friendly interface.
+
 Ask Questions: Once the PDF is uploaded, users can ask questions related to the content of the document.
+
 Intelligent Query Assistant: The system uses advanced natural language processing to understand and analyze the questions, providing relevant and precise answers.
+
 User-Friendly Interface: The interface is designed for simplicity, ensuring a seamless and intuitive experience for users.
 
 ## Tech Stack: 
 Python
+
 Streamlit
+
 Langchain
+
 Pinecone
+
 Firebase
+
 HTML
+
 CSS
 
 ## API used:
 OpenAI 
+
 Pinecone
 
 ## Getting Started
@@ -42,4 +52,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 Special thanks to the contributors and the open-source community for their valuable input and support.
+
 Happy querying! 🚀
