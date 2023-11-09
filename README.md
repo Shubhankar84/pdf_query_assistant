@@ -33,7 +33,7 @@ Pinecone
 ## Getting Started
 
 1. Clone the project repository:
-
+     https://github.com/Shubhankar84/pdf_query_assistant.git
 2. Create python environment
 3. Install  dependencies using the provided requirements.txt file:
      pip install -r requirements.txt
